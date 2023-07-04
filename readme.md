@@ -36,6 +36,6 @@ Empreender e exponencializar negócios e pessoas é um processo contínuo e levo
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-[![Linkedin: Eduardo Toledo](https://img.shields.io/badge/-eduardo-felipe-toledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-felipe-toledo/)](https://www.linkedin.com/in/eduardo-felipe-toledo/)
+[![Linkedin: Eduardo Toledo](https://img.shields.io/badge/-Eduardo%20Toledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-felipe-toledo/)](https://www.linkedin.com/in/eduardo-felipe-toledo/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardoftoledo70@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoftoledo70@gmail.com)](mailto:eduardoftoledo70@gmail.com)
 [![GitHub eduardoffelipe](https://img.shields.io/github/followers/eduardoffelipe?label=follow&style=social)](https://github.com/eduardoffelipe)
