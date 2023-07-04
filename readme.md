@@ -25,12 +25,12 @@ Empreender e exponencializar negócios e pessoas é um processo contínuo e levo
 
 <br/>
 
-<a href="https://github.com/eduardoffelipe">
+<!-- <a href="https://github.com/eduardoffelipe">
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=eduardoffelipe&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/eduardoffelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoffelipe&theme=dark&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
